@@ -1,0 +1,69 @@
+body {
+  background: url("../img/fond.png");
+  max-width: 750px;
+  min-width: 50%;
+  margin: 0 auto;
+  color: #555;
+}
+
+/* en tête */
+header {
+  background-color: #b8cb21;
+  width: 100%;
+  padding: 1.5em 0;
+}
+nav a {
+  color: #2f4723;
+  font-size: 1.3em;
+  font-family: 'Oswald';
+  margin-right: 10%;
+}
+nav {
+  float: right;
+  margin: 7% 0 0 0;
+  width: 50%;
+}
+
+
+/* corps de la page */
+main {
+  background-color: white;
+  padding: 1px 20px 45px 25px;
+}
+#icontitre {
+  color: #b8cb21;
+  font-size: 25px;
+}
+h2 {
+  color: #b8cb21;
+  font-family: 'Oswald';
+  font-weight: normal;
+}
+main a {
+  background-color: #b8cb21;
+  color: white;
+  padding: 10px 10px;
+  text-decoration: none;
+  float: right;
+  clear: both;
+}
+main div img {
+  width: 30%;
+  float: left;
+  margin-right: 10px
+}
+div {
+  margin-top: 50px;
+}
+
+
+
+/* LICENCE */
+#licence {
+    display: block;
+    text-align: center;
+    padding: 25px;
+}
+#licence img {
+    width: 50px;
+}
